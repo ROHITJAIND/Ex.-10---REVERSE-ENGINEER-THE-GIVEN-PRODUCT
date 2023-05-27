@@ -37,12 +37,14 @@ Step 10.:- After generate the gcode format then follow the these instruction
 - Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img height=10% width=30% src="https://github.com/ROHITJAIND/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707073/7e73f173-9892-44d8-8633-34cd7f043c2c">
 
 ## Output:
+<img height=40% width=60% src="https://github.com/ROHITJAIND/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707073/feff822c-ab34-4685-b32f-39a16c10915b">
 
 
-### Name:
-### Register Number:
+### Name: ROHIT JAIN D
+### Register Number: 212222230120
 
 ## RESULT:
 Thus the given product is reverse engineered and prototyped using 3D Printer.
