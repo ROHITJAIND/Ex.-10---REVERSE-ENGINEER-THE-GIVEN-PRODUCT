@@ -37,10 +37,10 @@ Step 10.:- After generate the gcode format then follow the these instruction
 - Open the file from the USB storage and select the Print option.
 
 ## Input:
-<img height=10% width=30% src="https://github.com/ROHITJAIND/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707073/7e73f173-9892-44d8-8633-34cd7f043c2c">
+<img height=40% width=30% src="https://github.com/ROHITJAIND/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707073/dd6a8b36-b997-475d-b3f2-d962f9dce48a">
 
 ## Output:
-<img height=40% width=60% src="https://github.com/ROHITJAIND/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707073/feff822c-ab34-4685-b32f-39a16c10915b">
+<img height=40% width=60% src="https://github.com/ROHITJAIND/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707073/3f4383d0-dea7-4ff7-b70e-ed1eb6bd8f54">
 
 
 ### Name: ROHIT JAIN D
